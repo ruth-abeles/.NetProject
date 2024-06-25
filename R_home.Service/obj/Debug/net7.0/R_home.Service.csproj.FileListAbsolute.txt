@@ -1,0 +1,15 @@
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.csproj.AssemblyReference.cache
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.AssemblyInfoInputs.cache
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.AssemblyInfo.cs
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.csproj.CoreCompileInputs.cache
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\bin\Debug\net7.0\R_home.Service.deps.json
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\bin\Debug\net7.0\R_home.Service.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\bin\Debug\net7.0\R_home.Service.pdb
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\bin\Debug\net7.0\R_home.Core.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\bin\Debug\net7.0\R_home.Core.pdb
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.csproj.CopyComplete
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\refint\R_home.Service.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\R_home.Service.pdb
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.Service\obj\Debug\net7.0\ref\R_home.Service.dll

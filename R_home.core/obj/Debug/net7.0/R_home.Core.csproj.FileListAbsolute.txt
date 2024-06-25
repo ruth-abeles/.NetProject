@@ -1,0 +1,12 @@
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.csproj.AssemblyReference.cache
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.AssemblyInfoInputs.cache
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.AssemblyInfo.cs
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.csproj.CoreCompileInputs.cache
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\bin\Debug\net7.0\R_home.Core.deps.json
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\bin\Debug\net7.0\R_home.Core.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\bin\Debug\net7.0\R_home.Core.pdb
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\refint\R_home.Core.dll
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\R_home.Core.pdb
+C:\מסמכים\רותי\שנה ב\.Net\R_home\R_home.core\obj\Debug\net7.0\ref\R_home.Core.dll

@@ -1,0 +1,6 @@
+@R_home_HostAddress = http://localhost:5250
+
+GET {{R_home_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
